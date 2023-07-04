@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.itis.youralarm.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "com.itis.youralarm.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.itis.youralarm.app-mergeDebugResources-27:/layout/activity_notification.xml",
+        "source": "com.itis.youralarm.app-main-30:/layout/activity_notification.xml"
+    }
+]
